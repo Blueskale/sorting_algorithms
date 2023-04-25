@@ -32,4 +32,4 @@ Please note that this project was completed in a repository separate from the ma
 
 Project authors:
 Princewill Mmadu - princewillmmadu@gmail.com.
-Evelyn Mwinvielu Dery
+Evelyn Mwinvielu Dery - evedery20@gamil.com
